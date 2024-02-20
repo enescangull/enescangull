@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Ben Enes. Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim, öğrencilik yıllarımın başında siber güvenlik üzerine olan ilgim sonralara doğru mobil uygulama geliştiriciliği üzerine arttı. Şuanlık flutter üzerinde kendimi geliştirmeye çabalıyorum.</p>
+<p align="left">Ben Enes,Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Mezuniyetimi tamamlamaya çalışırken çeşitli iş deneyimleri edindim. Başlangıçta siber güvenliğe ilgi duysam da, web ve mobil programlamaya yöneldim. AdonisJS ve WordPress ile deneyimlerim var. Şu anda Kocaeli Şehir Hastanesi'nde Bilgi İşlem Destek Uzmanı olarak görev yapıyorum ve network/sistem yönetimi deneyimim de mevcut.</p>
 
 ###
 
