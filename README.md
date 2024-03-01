@@ -7,16 +7,9 @@
 
 ###
 
-<p align="left"><a href="mailto:enescangull@gmail.com">Mail</a> üzerinden benimle iletişime geçebilirsiniz:</p>
+<p align="left"><a href="mailto:enescangull@gmail.com">Mail</a> üzerinden benimle iletişime geçebilirsiniz.</p>
 
 ###
-
-<div align="left">
-  <a href="mailto:enescangull@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
 ###
 
 <h2 align="left"></h2>
