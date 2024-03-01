@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Aşağıda bulunan mail üzerinden benimle iletişime geçebilirsiniz:</p>
+<p align="left">Aşağıda bulunan [mail](mailto:enescangull@gmail.com) üzerinden benimle iletişime geçebilirsiniz:</p>
 
 ###
 
