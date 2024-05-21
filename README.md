@@ -1,5 +1,5 @@
 
-<h1 align="left">Merahaba 👋</h1>
+<h1 align="left">Merhaba 👋</h1>
 
 ###
 
