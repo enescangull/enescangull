@@ -3,11 +3,11 @@
 
 ###
 
-<p align="left">Ben Enes,Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Mezuniyetimi tamamlamaya çalışırken çeşitli iş deneyimleri edindim. Başlangıçta siber güvenliğe ilgi duysam da, web ve mobil programlamaya yöneldim. AdonisJS ve WordPress ile deneyimlerim var. Şu anda Kocaeli Şehir Hastanesi'nde Bilgi İşlem Destek Uzmanı olarak görev yapıyorum ve network/sistem yönetimi deneyimim de mevcut.</p>
+<p align="left">Ben Enes,Bilgisayar mühendisliği eğitimimi tamamlarken kendimi web, mobil ve backend geliştirme alanlarında farklı projelerle zenginleştirme şansı buldum. Kariyerime siber güvenlik alanında ilgi duyarak başladım; ancak zamanla mobil ve web programlamaya yoğunlaştım. Özellikle Flutter ile mobil uygulama geliştirmeye odaklanarak farklı projeler geliştirdim ve bu alanda kendimi sürekli geliştirmekten büyük bir keyif alıyorum. <br> GitHub’da paylaştığım projeler, uygulamalar ve deneyimlerimle ilgili geri bildirimlere her zaman açığım. Burada yalnızca projelerimi sergilemeyi değil, aynı zamanda sektördeki diğer profesyonellerle işbirliği yapmayı ve yeni teknolojiler hakkında bilgi edinmeyi amaçlıyorum.</p>
 
 ###
 
-<p align="left"><a href="mailto:enescangull@gmail.com">Mail</a> üzerinden benimle iletişime geçebilirsiniz.</p>
+<p align="left"><a href="mailto:enescangull@gmail.com">Mail</a> ve <a href="mailto:enescangull@gmail.com">LinkedIn</a> üzerinden benimle iletişime geçebilirsiniz.</p>
 
 ###
 ###
